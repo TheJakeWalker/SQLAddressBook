@@ -1,5 +1,5 @@
 # SQLAddressBook
-To better understand SQL and how to make a GUI in python, I created a vitrual address book. My SQL based address book  provides a GUI to perform CRUD operations as well as visually traverse the entries within the address book. This was hosted on a Raspberry Pi, but the general workflow is replicable on other playforms and operating systems.
+To better understand SQL and how to make a GUI in python, I created a virtual address book. My SQL based address book  provides a GUI to perform CRUD operations as well as visually traverse the entries within the address book. This was hosted on a Raspberry Pi, but the general workflow is replicable on other playforms and operating systems.
 
 ## Steps:
 1. Download MariaDB
